@@ -1,11 +1,44 @@
 {
   "name": "wru",
   "version": "0.0.1",
-  "description": "who are you — 验证某人是学生还是开发新手",
+  "description": "who are you — CLI tool to verify if someone is a student or beginner developer",
   "type": "module",
+  "main": "wru.mjs",
   "bin": {
     "wru": "./wru.mjs"
   },
-  "keywords": ["cli", "verify", "student", "beginner"],
-  "license": "MIT"
+  "files": [
+    "wru.mjs"
+  ],
+  "scripts": {
+    "start": "node wru.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "verify",
+    "student",
+    "beginner",
+    "developer",
+    "identity",
+    "github",
+    "education",
+    "quiz"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jack/wru"
+  },
+  "homepage": "https://github.com/jack/wru#readme",
+  "bugs": {
+    "url": "https://github.com/jack/wru/issues"
+  },
+  "author": "Jack",
+  "publishConfig": {
+    "access": "public"
+  }
 }
