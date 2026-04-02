@@ -1,8 +1,15 @@
-# wru (Who Are You) 🕵️‍♂️
+<h1 align="center">wru (Who Are You) 🕵️‍♂️</h1>
+<div align="center">
+<p align="center">
+  <a href="./README.md">中文</a>｜
+  <a href="./README_EN.md">英文</a>
+</p>
 
 **wru** 是一个轻量级的 CLI 工具，旨在通过一系列验证步骤确认某人是否为**学生**或**刚起步的开发者**。
 
 该项目采用 Node.js 原生模块编写，**零依赖**，极速且安全。
+</div>
+
 
 ## 🌟 功能特性
 
