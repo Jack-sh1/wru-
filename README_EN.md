@@ -2,7 +2,7 @@
 <div align="center">
 <p align="center">
   <a href="./README.md">中文</a>｜
-  <a href="./README_EN.md">英文</a>
+  <a href="./README_EN.md">en</a>
 </p>
 wru is a lightweight CLI tool designed to verify whether someone is a student or a **beginner developer** just starting their journey in application development.
 
