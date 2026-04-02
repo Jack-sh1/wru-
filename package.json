@@ -1,0 +1,11 @@
+{
+  "name": "wru",
+  "version": "0.0.1",
+  "description": "who are you — 验证某人是学生还是开发新手",
+  "type": "module",
+  "bin": {
+    "wru": "./wru.mjs"
+  },
+  "keywords": ["cli", "verify", "student", "beginner"],
+  "license": "MIT"
+}
